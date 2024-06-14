@@ -2,7 +2,7 @@
 
 Welcome to the landing page for this learning series, we aim to uncover how the tips and tricks and how customers can move faster with platform automation and devops!
 
-**[**Week 1 - Ready, Set, Code.](./weeks/week1/introduction.md)**
+**[Week 0 - Ready, Set, Code.](./weeks/week0/introduction.md)**
 
 
 
