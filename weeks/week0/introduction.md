@@ -8,10 +8,10 @@ A laptop, patience, and yourself is all that's required this week.
 
 ## Challenges 
 
-### Challenge 1 - Get Your Own Azure Tenant ☁️
+### [Challenge 1 - Get Your Own Azure Tenant ☁️](challenge1.md)
 
-### Challenge 2 - Select your GitHub Account 🚀
+### [Challenge 2 - Select your GitHub Account 🚀](challenge2.md)
 
-### Challenge 3 - Remove the Drugery with GitHub Copilot 🤖
+### [Challenge 3 - Remove the Drudgery with GitHub Copilot 🤖](challenge3.md)
 
-### Challenge 4 - Prepare your GitHub Codespace 😶‍🌫️
+### [Challenge 4 - Prepare your GitHub Codespace 😶‍🌫️](challenge4.md)
