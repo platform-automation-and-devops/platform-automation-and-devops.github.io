@@ -10,3 +10,4 @@ Copilots have become so pivotal to the work we do everyday that we feel naked wi
 4. [ ] Run `code --version; terraform --version; az --version` in the Windows Powershell Terminal with succesfful exit code
 
 ## Resources
+- https://developer.hashicorp.com/terraform/install
