@@ -14,4 +14,7 @@ A laptop, patience, and yourself is all that's required this week.
 
 ### [Challenge 3 - Remove the Drudgery with GitHub Copilot 🤖](challenge3.md)
 
-### [Challenge 4 - Prepare your GitHub Codespace 😶‍🌫️](challenge4.md)
+### [Challenge 4 - Install the Tools ⚙️](challenge4.md)
+
+## Contributors 
+- Luke Taylor
