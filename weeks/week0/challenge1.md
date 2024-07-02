@@ -1,4 +1,5 @@
 # Challenge 1 - Get Your Own Azure Tenant ☁️
+**[Home](./introduction.md)** | [Next Challenge >](./challenge2.md)
 
 ## Description
 Throughout this course, not only will be deploying azure resources, but we will also be using Entra ID Objects to facilitate our automation efforts in weeks to come. To do this, you will need to have your own Azure Tenant. 
