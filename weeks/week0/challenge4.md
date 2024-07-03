@@ -1,6 +1,6 @@
 # Challenge 4 - Install the Tools ⚙️
 
-[< Previous Challenge](./challenge3.md) | **[Home](./introduction.md)**
+[< Previous Challenge](./challenge3.md) | **[Home](./introduction.md)** | [Next Challenge >](./challenge5.md)
 
 ## Description
 
@@ -9,12 +9,15 @@ In this challenge, you are tasked with setting up your development environment f
 ## Success Criteria
 
 1. [ ] You have downloaded VsCode.
-2. [ ] You have downloaded Terraform.
-3. [ ] You have downloaded AZ CLI.
-4. [ ] Run `code --version; terraform --version; az --version` in the Windows Powershell Terminal with successful exit code
+2. [ ] You have downloaded Git.
+3. [ ] You have downloaded Terraform.
+4. [ ] You have downloaded AZ CLI.
+5. [ ] Run `code --version; terraform --version; az --version; git version` in the Windows Powershell Terminal with successful exit code
+6. [ ] You have created a new folder `C:\Users\<Username>\Code` on your machine to store your code for this series.
 
 ## Resources
 
 - [Install Terraform](https://developer.hashicorp.com/terraform/install)
 - [Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
+- [Download Git](https://git-scm.com/downloads)
