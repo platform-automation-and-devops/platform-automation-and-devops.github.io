@@ -16,7 +16,7 @@ A laptop, patience, and yourself is all that's required this week.
 
 ### [Challenge 4 - Install the Tools ⚙️](challenge4.md)
 
-### Challenge 5 - Bonus: Develop with Docker 🐳
+### [Challenge 5 - Bonus: Develop with Docker 🐳](challenge5.md)
 
 ## Contributors 
 - Luke Taylor
