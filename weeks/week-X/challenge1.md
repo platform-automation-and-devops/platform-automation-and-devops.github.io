@@ -20,7 +20,7 @@ You must have completed Challenge 1 in Week0 to setup your own Azure Tenant with
 
 ## Resources
 
- - [Create Azure DevOps Organisaton](https://aex.dev.azure.com/signup/). **Recommendation**: Associate to your External MCAPS tenant.
+ - [Create Azure DevOps Organisaton](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops). **Recommendation**: Associate to your External MCAPS tenant.
  - [Azure DevOps Billing](https://learn.microsoft.com/en-us/azure/devops/organizations/billing/set-up-billing-for-your-organization-vs?view=azure-devops)
  - [Parrallel Jobs](https://learn.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops&tabs=ms-hosted#how-much-do-parallel-jobs-cost) **NOTE**: This request can take up to 2-3 days to complete.
  - [Terraform DevLabs Plugin](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.custom-terraform-tasks)
