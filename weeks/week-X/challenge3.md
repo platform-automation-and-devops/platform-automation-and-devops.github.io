@@ -14,7 +14,7 @@
 3. [ ] Raise a Pull Request and gain Approval
 
 ## Resources
- = [Branch Polices](https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-policies-overview?view=azure-devops)
+ - [Branch Polices](https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-policies-overview?view=azure-devops)
  - [About Pull Requests](https://learn.microsoft.com/en-us/azure/devops/repos/git/about-pull-requests?view=azure-devops)
  - [Creating Pull Requests](https://learn.microsoft.com/en-us/azure/devops/repos/git/pull-requests?view=azure-devops&tabs=browser)
 
