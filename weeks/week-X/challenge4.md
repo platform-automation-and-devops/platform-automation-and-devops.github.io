@@ -11,7 +11,7 @@ Service connections are authenticated connections between Azure Pipelines and ex
 ## Success Criteria
 1. [ ] Creation of a Service Connection using a Service Principal
 2. [ ] Creation of a Service Connection using WIF
-3. [ ] Deployment of Test Resource Group to Azure using Azure Service Connection (GitHub Co-Piot is Your FRIEND!!!!)
+3. [ ] Deployment of Test Resource Group to Azure using Azure Service Connection (**GitHub Co-Piot is Your FRIEND!!!!**)
 4. [ ] An understanding of the differences between Service Principal and WIF Service Connections
 
 ## Resources
