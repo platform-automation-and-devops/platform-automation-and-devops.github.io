@@ -1,4 +1,4 @@
-# Challenge 2 - <Title>
+# Challenge 2 - Terraform Validation
 
 [< Previous Challenge](./challenge1.md) | **[Home](./introduction.md)** | [Next Challenge >](./challenge3.md)
 
@@ -6,7 +6,9 @@
 <!-- Replace with brief description of the challenge. -->
 
 ## Success Criteria
+
 1. [ ] <!-- Replace with success criterion to advanced to next challenge. -->
 
 ## Resources
--  <!-- Replace with relevant resources to guide hackers. -->
+
+- <!-- Replace with relevant resources to guide hackers. -->

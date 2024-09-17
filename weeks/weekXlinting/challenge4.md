@@ -1,4 +1,4 @@
-# Challenge 4 - <Title>
+# Challenge 4 - YAMLlint
 
 [< Previous Challenge](./challenge3.md) | **[Home](./introduction.md)** | [Next Challenge >](./challenge5.md)
 
@@ -6,7 +6,9 @@
 <!-- Replace with brief description of the challenge. -->
 
 ## Success Criteria
+
 1. [ ] <!-- Replace with success criterion to advanced to next challenge. -->
 
 ## Resources
--  <!-- Replace with relevant resources to guide hackers. -->
+
+- <!-- Replace with relevant resources to guide hackers. -->
