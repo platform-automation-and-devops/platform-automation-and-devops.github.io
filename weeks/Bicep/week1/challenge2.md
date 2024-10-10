@@ -1,4 +1,4 @@
-# Challenge 2 - Parameters and Variables
+# Challenge 2 - Parameters, Variables and Outputs
 
 [< Previous Challenge](./challenge1.md) | **[Home](./introduction.md)** | [Next Challenge >](./challenge3.md)
 

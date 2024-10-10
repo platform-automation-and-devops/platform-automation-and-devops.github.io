@@ -1,4 +1,4 @@
-# Challenge 3 - Code Review
+# Challenge 3 - Comments
 
 [< Previous Challenge](./challenge2.md) | **[Home](./introduction.md)** | [Next Challenge >](./challenge4.md)
 
