@@ -4,7 +4,13 @@ Welcome to the landing page for this learning series, we aim to uncover how the 
 
 **[Week 0 - Ready, Set, Code.](./weeks/week0/introduction.md)**
 
+## Terraform
+
 **[Week 1 - Terraform Locals, Variables, and Outputs](./weeks/week1/introduction.md)**
+
+**[Week 2 - Loops, Expressions, and Functions](./weeks/week2/introduction.md)**
+
+## Bicep
 
 <div style="display:flex;">
     <div style="flex: 1;">
