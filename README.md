@@ -12,6 +12,8 @@ Welcome to the landing page for this learning series, we aim to uncover how the 
 
 ## Bicep
 
+**[Week 1 - Params, Vars, Outputs and Comments](./weeks/Bicep/week1/introduction.md)**
+
 <div style="display:flex;">
     <div style="flex: 1;">
         <img src="images/pd.jpg">
